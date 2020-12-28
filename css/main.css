@@ -25,6 +25,12 @@ a {
 .off{
 	transition: all 0.5s;
 }
+
+/*主体部分的颜色设置*/
+body {
+  background: #fffbf0;
+}
+
 /* header */
 #header {
 	position:fixed;
@@ -117,9 +123,9 @@ a {
 	height: 35px;
 	margin: 5px 10px 5px 10px;
 	border-radius:5px;
-	background: #f3f8f1;
+	background: #f2ecde;
 	text-indent: 20px;
-	color: #64cfff;
+	color: #800000;
 }
 .sidebar-toc {
 	position: absolute;
